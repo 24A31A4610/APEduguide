@@ -69,8 +69,11 @@ The main goal of EduGuide is to simplify learning for school students by providi
 
 ## 👨‍💻 Developer
 
-* Developed by: **24A31A4610**
+* Developed by: **Team Project (Collaborative Development)**
 * Platform: GitHub + VS Code
+* Deployment: Netlify
+
+🌐 Live Demo: [https://apeduguide.netlify.app/]
 
 ---
 
